@@ -41,7 +41,6 @@ export const registerController = async(req,res)=>{
        })
     }
 }
-
 export const verifyEmail = async (req, res) => {
 
   try {
